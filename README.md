@@ -21,7 +21,7 @@ Runtime 是开源的，在苹果的开源网站上可以下载到源码工程。
   参考 “IT_胖哥” 的配置的记录：https://www.jianshu.com/p/f830d4cbc6b4  
   笔者也重新配置了一遍。
 
-3. 依赖库
+3. 依赖库  
 可在 https://opensource.apple.com/tarballs 中查找
 
 - dyld-851.27
