@@ -1,3 +1,5 @@
+*环境：Xcode 13.x.x，MacOS Monterey 12.3.x，请看最新配置 [objc4-838.1](https://github.com/hubupc/objc4-838.1)* 
+
 # iOS Runtime 学习 2：objc4-824 源代码编译、调试
 
 ## 概述
